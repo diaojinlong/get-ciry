@@ -1,6 +1,6 @@
 {
     "name": "diaojinlong/get-city",
-    "description": "z\b",
+    "description": "抓取省市区信息",
     "type": "project",
     "require": {
         "php": ">=7.2.0",
